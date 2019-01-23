@@ -1,15 +1,15 @@
 {
-  "main.css": "/static/css/main.e0ea7081.chunk.css",
-  "main.js": "/static/js/main.b45844a8.chunk.js",
-  "main.js.map": "/static/js/main.b45844a8.chunk.js.map",
-  "static/js/1.426ca36b.chunk.js": "/static/js/1.426ca36b.chunk.js",
-  "static/js/1.426ca36b.chunk.js.map": "/static/js/1.426ca36b.chunk.js.map",
+  "main.css": "/static/css/main.455fcab1.chunk.css",
+  "main.js": "/static/js/main.6b42d710.chunk.js",
+  "main.js.map": "/static/js/main.6b42d710.chunk.js.map",
+  "static/js/1.05d6583d.chunk.js": "/static/js/1.05d6583d.chunk.js",
+  "static/js/1.05d6583d.chunk.js.map": "/static/js/1.05d6583d.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.e0ea7081.chunk.css.map": "/static/css/main.e0ea7081.chunk.css.map",
+  "static/css/main.455fcab1.chunk.css.map": "/static/css/main.455fcab1.chunk.css.map",
   "static/media/paintingClue.png": "/static/media/paintingClue.4a462907.png",
   "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
   "index.html": "/index.html",
-  "precache-manifest.3aa7baebbcf3d6ae72dc73b36a3c7258.js": "/precache-manifest.3aa7baebbcf3d6ae72dc73b36a3c7258.js",
+  "precache-manifest.958f04d21e3ac16b0e7c2a152c861e39.js": "/precache-manifest.958f04d21e3ac16b0e7c2a152c861e39.js",
   "service-worker.js": "/service-worker.js"
 }
